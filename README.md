@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BerylPink
+- 👀 I’m interested in software and Embedded Systems Engineering
+- 🌱 I’m currently learning new stack to improve my software skill
+- 💞️ I’m looking to collaborate on Embedded systems and software projects
+- 📫 How to reach me: timiadielluv.nd@gmail.com
